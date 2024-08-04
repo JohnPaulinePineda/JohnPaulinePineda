@@ -10,7 +10,13 @@
   
 </div>
 
-I am a data science and machine learning enthusiast with academic training in electronics engineering and statistics - aiming to contribute to cutting-edge projects that harness the power of data to solve complex problems, deliver impactful solutions addressing real-world challenges, and contribute to the advancement of technology and data applications.
+I am a data science and machine learning enthusiast.
+
+- with academic training in electronics engineering and statistics
+- with professional experience in high-end manufacturing, fintech, and biotechnology R&D
+- aiming to contribute to cutting-edge projects that harness the power of data to solve complex problems, deliver impactful solutions addressing real-world challenges, and contribute to the advancement of technology and data applications.
+
+In my spare time, I love exploring machine learning tools and methodologies, eventually applying them on interesting use cases. 
 
 I have consolidated all my work in a [project portfolio](https://johnpaulinepineda.github.io/).
 
