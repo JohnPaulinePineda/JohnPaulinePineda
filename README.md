@@ -108,6 +108,14 @@ Thank you for visiting my profile! 🤝
 | [![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudioIDE-black?logo=RStudioIDE)](#)|Epigenetic Imprinted Gene Biomarkers Significantly Improve the Accuracy of Presurgical Bronchoscopy Diagnosis of Lung Cancer|[Abstract](https://ascopubs.org/doi/10.1200/JCO.2020.38.15_suppl.e21055)|
 | [![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudioIDE-black?logo=RStudioIDE)](#)|Quantitative Chromogenic Imprinted Gene In Situ Hybridization (QCIGISH) Technique Could Diagnose Lung Cancer Accurately|[Abstract](https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A4452)|
 
+#### GitHub Stats
+
+<img src="https://komarev.com/ghpvc/?username=JohnPaulinePineda&style=flat-square&color=blue" alt=""/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JohnPaulinePineda&theme=light&background=FFFFFF)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPaulinePineda&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **JohnPaulinePineda/JohnPaulinePineda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
