@@ -121,8 +121,6 @@ Thank you for visiting my profile! 🤝
 
 <img src="https://komarev.com/ghpvc/?username=JohnPaulinePineda&style=flat-square&color=blue" alt=""/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JohnPaulinePineda&theme=swift&date_format=%5BY%20%5DM%20j&currStreakNum=0077B5&currStreakLabel=0077B5&background=F5F5DC)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPaulinePineda&theme=swift&bg_color=F5F5DC&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPaulinePineda&show_icons=true&theme=swift&bg_color=F5F5DC&icon_color=0077B5&card_width=495&custom_title=Performance)
