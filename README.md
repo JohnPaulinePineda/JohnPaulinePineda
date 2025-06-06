@@ -18,7 +18,7 @@
 
 In my spare time, I love exploring machine learning tools and methodologies, and eventually applying them on interesting use cases. 
 
-I have organized my completed projects [🔵] below, including those that I am currently working on [🔴].
+I have briefly organized my completed projects [🔵] including those that I am currently working on [🔴] below.
 
 I have also consolidated a more detailed version of my work in a [**Project Portfolio**](https://johnpaulinepineda.github.io/).
 
