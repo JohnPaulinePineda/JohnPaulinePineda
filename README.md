@@ -10,19 +10,46 @@
  
 </div>
 
-**I am a data science and machine learning enthusiast**.
+**I’m a Data Science and Machine Learning Enthusiast** with a unique background that bridges **Electronics Engineering** and **Applied Statistics**.
 
-- with academic training in electronics engineering and statistics.
-- with professional experience in high-end electronics manufacturing, fintech, and biotechnology R&D industries.
-- who aims to create innovative projects that harness the power of data to solve complex problems, deliver impactful solutions addressing real-world challenges, and contribute to the advancement of technology and data applications.
+---
 
-In my spare time, I love exploring machine learning tools and methodologies, and eventually applying them on interesting use cases. 
+### 💼 Professional Background
 
-I have briefly organized my completed projects [🔵] including those that I am currently working on [🔴] below.
+I bring experience from diverse, high-impact industries:
+- ⚙️ **High-End Electronics Manufacturing**
+- 💳 **Fintech**
+- 🧬 **Biotechnology R&D**
 
-I have also consolidated a more detailed version of my work in a [**Project Portfolio**](https://johnpaulinepineda.github.io/).
+My work spans across domains where **Data-Driven Insights**, **Engineering Precision**, and **Statistical Rigor** intersect to solve real-world problems.
 
-Thank you for visiting my profile! 🤝
+---
+
+### 🚀 What Drives Me
+
+I'm passionate about lifelong learning and creating **Innovative, End-to-End Projects** that:
+- Harness the power of data and machine learning  
+- Deliver practical, real-world solutions  
+- Contribute to open knowledge
+
+In my spare time, you’ll find me experimenting with cutting-edge ML tools and applying them to meaningful use cases.
+
+---
+
+### 📁 Project Showcase
+
+I’ve briefly organized my work below — including:
+
+- 🔵 **Completed Projects**  
+- 🔴 **Ongoing Work**
+
+For a deeper dive into my projects, methodologies, and tools used, check out my  📌 [**Project Portfolio Website**](https://johnpaulinepineda.github.io/)
+
+Thanks for visiting my GitHub! 🍻   
+
+Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
+
+---
 
 #### Machine Learning Applications
 
