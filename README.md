@@ -1,4 +1,4 @@
-## 👋 Hi, I'm John!
+### 👋 Hi, I'm John!
 
 <div id="badges">    
   
@@ -10,7 +10,9 @@
  
 </div>
 
-**I’m a Data Science and Machine Learning Enthusiast** with a unique background that bridges **Electronics Engineering** and **Applied Statistics**.
+**I’m a Data Science and Machine Learning Enthusiast** with a unique background that bridges:
+- ⚡ **Electronics Engineering**
+- 📊 **Applied Statistics**
 
 ---
 
@@ -27,10 +29,10 @@ My work spans across domains where **Data-Driven Insights**, **Engineering Preci
 
 ### 🚀 What Drives Me
 
-I'm passionate about lifelong learning and creating **Innovative, End-to-End Projects** that:
-- Harness the power of data and machine learning  
-- Deliver practical, real-world solutions  
-- Contribute to open knowledge
+I'm passionate about **Lifelong Learning** and creating **Innovative, End-to-End Projects** that:
+- 🤖 Harness the power of data and machine learning  
+- 🛠️ Deliver practical, real-world solutions  
+- 📚 Contribute to open knowledge
 
 In my spare time, you’ll find me experimenting with cutting-edge ML tools and applying them to meaningful use cases.
 
