@@ -10,7 +10,7 @@
  
 </div>
 
-**I’m a Data Science and Machine Learning Enthusiast** with a unique background that bridges:
+I’m a **Data Science and Machine Learning Enthusiast** with a unique background that bridges:
 - ⚡ **Electronics Engineering**
 - 📊 **Applied Statistics**
 
@@ -18,7 +18,7 @@
 
 ### 💼 Professional Background
 
-I bring experience from diverse, high-impact industries:
+I bring experience from diverse, high-impact industries — including:
 - ⚙️ **High-End Electronics Manufacturing**
 - 💳 **Fintech**
 - 🧬 **Biotechnology R&D**
