@@ -1,5 +1,7 @@
 ### 👋 Hi, I'm John!
 
+---
+
 <div id="badges">    
   
   [<img src="https://img.shields.io/badge/Linkedin-beige?logoColor=blue&style=for-the-badge" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/johnpaulinepineda/) &nbsp; &nbsp;
@@ -14,8 +16,6 @@ I’m a **Data Science and Machine Learning Enthusiast** with a unique backgroun
 - ⚡ **Electronics Engineering**
 - 📊 **Applied Statistics**
 
----
-
 ### 💼 Professional Background
 
 I bring experience from diverse, high-impact industries — including:
@@ -25,8 +25,6 @@ I bring experience from diverse, high-impact industries — including:
 
 My work spans across domains where **Data-Driven Insights**, **Engineering Precision**, and **Statistical Rigor** intersect to solve real-world problems.
 
----
-
 ### 🚀 What Drives Me
 
 I'm passionate about **Lifelong Learning** and creating **Innovative, End-to-End Projects** that:
@@ -35,8 +33,6 @@ I'm passionate about **Lifelong Learning** and creating **Innovative, End-to-End
 - 📚 Contribute to open knowledge
 
 In my spare time, you’ll find me experimenting with cutting-edge ML tools and applying them to meaningful use cases.
-
----
 
 ### 📁 Project Showcase
 
@@ -53,7 +49,7 @@ Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
 
 ---
 
-#### Machine Learning Applications
+### 🧠 Machine Learning Applications
 
 | **Tools**  | **Project Title** | **Status** | **Link** |
 | :---: | --- | :---: | :---: |
@@ -61,7 +57,9 @@ Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
 | [<img src="https://img.shields.io/badge/Python-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Python Badge"/>](https://www.python.org/)<br> [<img src="https://img.shields.io/badge/Jupyter-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Jupyter Badge"/>](https://jupyter.org/)<br> [<img src="https://img.shields.io/badge/Github-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Github Badge"/>](https://github.com/)<br> [<img src="https://img.shields.io/badge/Streamlit-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Streamlit Badge"/>](https://streamlit.io/)|Estimating Heart Failure Survival Risk Profiles From Cardiovascular, Hematologic And Metabolic Markers|🔵|[Notebook](https://johnpaulinepineda.github.io/Portfolio_Project_55/)<br> [Repository](https://github.com/JohnPaulinePineda/Portfolio_Project_55)<br> [Application](https://heart-failure-survival-probability-estimation.streamlit.app)|
 | [<img src="https://img.shields.io/badge/Python-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Python Badge"/>](https://www.python.org/)<br> [<img src="https://img.shields.io/badge/Jupyter-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Jupyter Badge"/>](https://jupyter.org/)<br> [<img src="https://img.shields.io/badge/Github-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Github Badge"/>](https://github.com/)<br> [<img src="https://img.shields.io/badge/Streamlit-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Streamlit Badge"/>](https://streamlit.io/)|Estimating Lung Cancer Probabilities From Demographic Factors, Clinical Symptoms And Behavioral Indicators|🔵|[Notebook](https://johnpaulinepineda.github.io/Portfolio_Project_54/)<br> [Repository](https://github.com/JohnPaulinePineda/Portfolio_Project_54)<br> [Application](https://lung-cancer-diagnosis-probability-estimation.streamlit.app)|
 
-#### Machine Learning Case Studies
+---
+
+### 📝 Machine Learning Case Studies
 
 | **Tools**  | **Project Title** | **Status** | **Link** |
 | :---: | --- | :---: | :---: |
@@ -71,7 +69,10 @@ Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
 | [<img src="https://img.shields.io/badge/R-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="R Badge"/>](https://www.r-project.org/)<br> [<img src="https://img.shields.io/badge/RStudio-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="RStudio Badge"/>](https://posit.co/downloads/)|Uncovering Underlying Constructs of Chronic Disease Indicators Across US States Using Exploratory and Confirmatory Factor Analyses|🔵|[Notebook](https://johnpaulinepineda.github.io/Portfolio_Project_37/)<br> [Repository](https://github.com/JohnPaulinePineda/Portfolio_Project_37)|
 | [<img src="https://img.shields.io/badge/R-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="R Badge"/>](https://www.r-project.org/)<br> [<img src="https://img.shields.io/badge/RStudio-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="RStudio Badge"/>](https://posit.co/downloads/)|Characterizing Life Expectancy Drivers Across Countries Using Model-Agnostic Interpretation Methods for Black-Box Models|🔵|[Notebook](https://johnpaulinepineda.github.io/Portfolio_Project_35/)<br> [Repository](https://github.com/JohnPaulinePineda/Portfolio_Project_35)|
 
-#### Machine Learning Exploratory Projects
+---
+
+### 🔬 Machine Learning Exploratory Projects
+
 | **Tools**  | **Project Title** | **Status** | **Link** |
 | :---: | --- | :---: | :---: |
 | [<img src="https://img.shields.io/badge/Python-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Python Badge"/>](https://www.python.org/)<br> [<img src="https://img.shields.io/badge/Jupyter-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Jupyter Badge"/>](https://jupyter.org/)<br>|Detecting and Evaluating Anomalies in Categorical Data Under Supervised and Unsupervised Settings|🔴|[Notebook](https://johnpaulinepineda.github.io/Portfolio_Project_61/)<br> [Repository](https://github.com/JohnPaulinePineda/Portfolio_Project_61)|
@@ -127,7 +128,9 @@ Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
 | [<img src="https://img.shields.io/badge/R-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="R Badge"/>](https://www.r-project.org/)<br> [<img src="https://img.shields.io/badge/RStudio-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="RStudio Badge"/>](https://posit.co/downloads/)|Data Quality Assessment, Preprocessing and Exploration for a Regression Modelling Problem|🔵|[Notebook](https://johnpaulinepineda.github.io/Portfolio_Project_2/)<br> [Repository](https://github.com/JohnPaulinePineda/Portfolio_Project_2)|
 | [<img src="https://img.shields.io/badge/R-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="R Badge"/>](https://www.r-project.org/)<br> [<img src="https://img.shields.io/badge/RStudio-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="RStudio Badge"/>](https://posit.co/downloads/)|Data Quality Assessment, Preprocessing and Exploration for a Classification Modelling Problem|🔵|[Notebook](https://johnpaulinepineda.github.io/Portfolio_Project_1/)<br> [Repository](https://github.com/JohnPaulinePineda/Portfolio_Project_1)|
 
-#### Visual Analytics Projects
+---
+
+#### 🧮 Visual Analytics Projects
 
 | **Tools**  | **Project Title** | **Status** | **Link** |
 | :---: | --- | :---: | :---: |
@@ -137,7 +140,9 @@ Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
 | [<img src="https://img.shields.io/badge/Tableau-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Tableau Badge"/>](https://www.tableau.com/)|Dashboard Development with What-If Scenario Analysis Features|🔵|[Dashboard](https://public.tableau.com/app/profile/john.pauline.pineda/viz/WirelessBusinessWhat-IfAnalysisDashboard/WirelessWhatIfAnalysisDashboard)|
 | [<img src="https://img.shields.io/badge/Tableau-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Tableau Badge"/>](https://www.tableau.com/)|Dashboard Development with Period-To-Date Performance Tracking Features|🔵|[Dashboard](https://public.tableau.com/app/profile/john.pauline.pineda/viz/SportsStoreBusinessIndexMonitoringDashboard/RunningTotalsMonitoringDashboard)|
 
-#### Scientific Research Papers
+---
+
+#### 📚 Scientific Research Papers
 
 | **Tools**  | **Project Title** | **Status** | **Link** |
 | :---: | --- | :---: | :---: |
@@ -153,7 +158,9 @@ Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
 | [<img src="https://img.shields.io/badge/R-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="R Badge"/>](https://www.r-project.org/)<br> [<img src="https://img.shields.io/badge/RStudio-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="RStudio Badge"/>](https://posit.co/downloads/)|Epigenetic Imprinted Gene Biomarkers Significantly Improve the Accuracy of Presurgical Bronchoscopy Diagnosis of Lung Cancer|🔵|[Abstract](https://ascopubs.org/doi/10.1200/JCO.2020.38.15_suppl.e21055)|
 | [<img src="https://img.shields.io/badge/R-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="R Badge"/>](https://www.r-project.org/)<br> [<img src="https://img.shields.io/badge/RStudio-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="RStudio Badge"/>](https://posit.co/downloads/)|Quantitative Chromogenic Imprinted Gene In Situ Hybridization (QCIGISH) Technique Could Diagnose Lung Cancer Accurately|🔵|[Abstract](https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A4452)|
 
-#### GitHub Stats
+---
+
+#### 💻 GitHub Stats
 
 <img src="https://komarev.com/ghpvc/?username=JohnPaulinePineda&style=flat-square&color=blue" alt=""/>
 
@@ -161,6 +168,7 @@ Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPaulinePineda&show_icons=true&theme=swift&bg_color=F5F5DC&icon_color=0077B5&card_width=495&custom_title=Performance)
 
+---
 
 <!--
 **JohnPaulinePineda/JohnPaulinePineda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
