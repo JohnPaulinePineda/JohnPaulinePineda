@@ -38,6 +38,11 @@ In my spare time, you’ll find me experimenting with cutting-edge ML tools and 
 
 I’ve briefly organized my work below — including:
 
+- **Machine Learning Applications**: End-to-end predictive modeling projects showcasing complete pipelines from data to deployment with live interactive web apps.
+- **Machine Learning Case Studies**: In-depth, statistically rigorous studies that emphasize exploratory modeling, validation, and interpretability.
+- **Machine Learning Exploratory Projects**: Targeted experiments exploring specific machine learning lifecycle components, techniques, or technologies in isolation.
+- **Visual Analytics Projects**: Interactive dashboards designed for intuitive data exploration and visual storytelling.
+- **Scientific Research Papers**: Peer-reviewed co-authored research contributions applying data science methods in academic and scientific contexts.
 - 🔵 **Completed Projects**  
 - 🔴 **Ongoing Work**
 
