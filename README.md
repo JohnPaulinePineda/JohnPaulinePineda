@@ -173,8 +173,6 @@ Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPaulinePineda&theme=swift&bg_color=F5F5DC&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnPaulinePineda&show_icons=true&theme=swift&bg_color=F5F5DC&icon_color=0077B5&card_width=495&custom_title=Performance)
-
 ---
 
 <!--
