@@ -171,8 +171,6 @@ Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
 
 <img src="https://komarev.com/ghpvc/?username=JohnPaulinePineda&style=flat-square&color=blue" alt=""/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPaulinePineda&theme=swift&bg_color=F5F5DC&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 <!--
