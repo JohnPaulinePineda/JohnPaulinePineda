@@ -41,6 +41,8 @@ I’ve briefly organized my work below — including:
 - **Machine Learning Applications**: End-to-end predictive modeling projects showcasing complete pipelines from data to deployment with live interactive web apps.
 - **Machine Learning Case Studies**: In-depth, statistically rigorous studies that emphasize exploratory modeling, validation, and interpretability.
 - **Machine Learning Exploratory Projects**: Targeted experiments exploring specific machine learning lifecycle components, techniques, or technologies in isolation.
+- **Cloud Solutions**: End-to-end solutions that combine multiple cloud services to build practical, scalable, secure, and production-oriented applications.
+- **Cloud Services Exploratory Projects**: Focused projects designed to explore, implement, and understand the capabilities, configurations, and practical behavior of individual cloud services and features.
 - **Visual Analytics Projects**: Interactive dashboards designed for intuitive data exploration and visual storytelling.
 - **Scientific Research Papers**: Peer-reviewed co-authored research contributions applying data science methods in academic and scientific contexts.
 - 🔵 **Completed Projects**  
@@ -134,6 +136,22 @@ Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
 | [<img src="https://img.shields.io/badge/R-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="R Badge"/>](https://www.r-project.org/)<br> [<img src="https://img.shields.io/badge/RStudio-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="RStudio Badge"/>](https://posit.co/downloads/)|Treatment Comparison Tests Between a Single Two-Level Factor Variable and a Single Numeric Response Variable|🔵|[Notebook](https://johnpaulinepineda.github.io/Portfolio_Project_3/)<br> [Repository](https://github.com/JohnPaulinePineda/Portfolio_Project_3)|
 | [<img src="https://img.shields.io/badge/R-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="R Badge"/>](https://www.r-project.org/)<br> [<img src="https://img.shields.io/badge/RStudio-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="RStudio Badge"/>](https://posit.co/downloads/)|Data Quality Assessment, Preprocessing and Exploration for a Regression Modelling Problem|🔵|[Notebook](https://johnpaulinepineda.github.io/Portfolio_Project_2/)<br> [Repository](https://github.com/JohnPaulinePineda/Portfolio_Project_2)|
 | [<img src="https://img.shields.io/badge/R-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="R Badge"/>](https://www.r-project.org/)<br> [<img src="https://img.shields.io/badge/RStudio-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="RStudio Badge"/>](https://posit.co/downloads/)|Data Quality Assessment, Preprocessing and Exploration for a Classification Modelling Problem|🔵|[Notebook](https://johnpaulinepineda.github.io/Portfolio_Project_1/)<br> [Repository](https://github.com/JohnPaulinePineda/Portfolio_Project_1)|
+
+---
+
+#### 🧊 Cloud Solutions
+
+| **Tools**  | **Project Title** | **Status** | **Link** |
+| :---: | --- | :---: | :---: |
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|AI-Powered Practice Test Assistant with AWS Bedrock and Serverless Services|🔴|For Update|
+
+---
+
+#### 🤿 Cloud Services Exploratory Projects
+
+| **Tools**  | **Project Title** | **Status** | **Link** |
+| :---: | --- | :---: | :---: |
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Building a Custom Knowledge Base with Amazon Bedrock|🔴|For Update|
 
 ---
 
