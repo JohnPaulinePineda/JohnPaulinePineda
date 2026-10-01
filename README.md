@@ -139,7 +139,7 @@ Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
 
 ---
 
-#### 🧊 Cloud Solutions
+### 🧊 Cloud Solutions
 
 | **Tools**  | **Project Title** | **Status** | **Link** |
 | :---: | --- | :---: | :---: |
@@ -156,7 +156,7 @@ Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
 
 ---
 
-#### 🤿 Cloud Services Exploratory Projects
+### 🤿 Cloud Services Exploratory Projects
 
 | **Tools**  | **Project Title** | **Status** | **Link** |
 | :---: | --- | :---: | :---: |
@@ -178,7 +178,7 @@ Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
 
 ---
 
-#### 🧮 Visual Analytics Projects
+### 🧮 Visual Analytics Projects
 
 | **Tools**  | **Project Title** | **Status** | **Link** |
 | :---: | --- | :---: | :---: |
@@ -190,7 +190,7 @@ Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
 
 ---
 
-#### 📚 Scientific Research Papers
+### 📚 Scientific Research Papers
 
 | **Tools**  | **Project Title** | **Status** | **Link** |
 | :---: | --- | :---: | :---: |
@@ -208,7 +208,7 @@ Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
 
 ---
 
-#### 💻 GitHub Stats
+### 💻 GitHub Stats
 
 <img src="https://komarev.com/ghpvc/?username=JohnPaulinePineda&style=flat-square&color=blue" alt=""/>
 
