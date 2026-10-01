@@ -143,7 +143,16 @@ Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
 
 | **Tools**  | **Project Title** | **Status** | **Link** |
 | :---: | --- | :---: | :---: |
-| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|AI-Powered Practice Test Assistant with AWS Bedrock and Serverless Services|🔴|For Update|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|AI-Powered Practice Test Assistant with AWS Bedrock and Serverless Services|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|IdeaForge: Brainstorm Generation Assistant|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|AI-Powered Leaf Health Analysis & Crop Care Advisor using AWS Bedrock|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Embedding Search Application with Amazon Bedrock and Amazon ECS with an ALB and Route 53 DNS|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Image Understanding Application with Amazon Bedrock and Amazon ECS with an ALB and Route 53 DNS|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Long Document Summarization Application Using Amazon Bedrock, ALB and Route 53 DNS|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|RAG Chatbot with Amazon Lex and AWS Bedrock Knowledge Base|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Chatbot with Memory using Bedrock and DynamoDB|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|AI Code Reviewer with Bedrock, ML and GitHub|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|PDF to Smart Summary Bot using Textract and Bedrock|🔴|Open|
 
 ---
 
@@ -151,7 +160,21 @@ Feel free to 🔍 explore, 🤝 connect, or 👥 collaborate.
 
 | **Tools**  | **Project Title** | **Status** | **Link** |
 | :---: | --- | :---: | :---: |
-| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Building a Custom Knowledge Base with Amazon Bedrock|🔴|For Update|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Building a Custom Knowledge Base with Amazon Bedrock|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Performing ETL Operation in Glue with S3|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Migrating Data from Amazon RDS Postgres to RDS MySQL using AWS DMS|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Building Real-Time Data Streaming System with Amazon Kinesis Data Stream and Kinesis Agent|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Integrating and Transforming Data with AWS Glue|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Creating an AWS Glue Data Quality Lab to Define and Monitor Data Quality Rules|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Cleaning Data for Machine Learning Using AWS Glue DataBrew|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Streamlining Model Training and Inference using SageMaker Feature Store|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Developing ML Models with SageMaker Built-in Algorithms and Common ML Libraries|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Deploying Machine Learning Models Using Amazon SageMaker Endpoints|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Detecting Changes in the Distribution of Data Using SageMaker Clarify|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Evaluating Foundation Model with Amazon Sagemaker Clarify|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Understanding and Configuring Layered Security in an AWS VPC|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Creating CloudWatch Alarms and Dashboards for Resource Monitoring|🔴|Open|
+| [<img src="https://img.shields.io/badge/AWS-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="AWS Badge"/>](https://aws.amazon.com/)|Evaluating Foundation Model with Amazon Sagemaker Clarify|🔴|Open|
 
 ---
 
